@@ -4,7 +4,7 @@ This is a **MERN stack** application with **Tailwind CSS** for managing employee
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Home Page:** Displays the list of employees.
 - **Add Employee Page:** Allows adding new employee details.
@@ -15,7 +15,7 @@ This is a **MERN stack** application with **Tailwind CSS** for managing employee
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, React Router
 - **Backend:** Node.js, Express.js
@@ -25,9 +25,9 @@ This is a **MERN stack** application with **Tailwind CSS** for managing employee
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### ⚙Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
 ---
 
-### 📥 Installation
+#### Installation
 
 1. **Clone the repository**
    ```bash
@@ -89,7 +89,7 @@ MONGO_URI=your-mongodb-connection-string
 
 ## Folder Structure
 
-### 🛠Backend
+### Backend
 ```
 /backend
  ├── config          # Database configuration
