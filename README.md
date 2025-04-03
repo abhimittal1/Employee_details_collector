@@ -6,16 +6,16 @@ This is a **MERN stack** application with **Tailwind CSS** for managing employee
 
 ## 🚀 Features
 
-- 📄 **Home Page:** Displays the list of employees.
-- ➕ **Add Employee Page:** Allows adding new employee details.
-- 🔥 **MERN Stack:** Utilizes MongoDB, Express.js, React.js, and Node.js.
-- 🎨 **Tailwind CSS:** For a clean and responsive UI.
-- 🌐 **CORS Enabled:** To allow cross-origin requests.
-- 🔧 **Environment Variables:** Uses `.env` for configuration.
+- **Home Page:** Displays the list of employees.
+- **Add Employee Page:** Allows adding new employee details.
+- **MERN Stack:** Utilizes MongoDB, Express.js, React.js, and Node.js.
+- **Tailwind CSS:** For a clean and responsive UI.
+- **CORS Enabled:** To allow cross-origin requests.
+- **Environment Variables:** Uses `.env` for configuration.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, React Router
 - **Backend:** Node.js, Express.js
@@ -27,7 +27,7 @@ This is a **MERN stack** application with **Tailwind CSS** for managing employee
 
 ## 🚀 Getting Started
 
-### ⚙️ Prerequisites
+### ⚙Prerequisites
 
 Make sure you have the following installed:
 
@@ -58,7 +58,7 @@ Make sure you have the following installed:
 
 ---
 
-### 🔥 Environment Variables
+### Environment Variables
 
 Create a `.env` file in the `backend` directory with the following:
 ```
@@ -68,7 +68,7 @@ MONGO_URI=your-mongodb-connection-string
 
 ---
 
-### 🚀 Running the App
+### Running the App
 
 1. Start the backend server:
    ```bash
@@ -87,9 +87,9 @@ MONGO_URI=your-mongodb-connection-string
 
 ---
 
-## 📌 Folder Structure
+## Folder Structure
 
-### 🛠️ Backend
+### 🛠Backend
 ```
 /backend
  ├── config          # Database configuration
@@ -104,7 +104,7 @@ MONGO_URI=your-mongodb-connection-string
  ├── package-lock.json # Dependency lock file
 ```
 
-### 🌐 Frontend
+### Frontend
 ```
 /frontend
  ├── public                # Static files (index.html)
@@ -124,19 +124,19 @@ MONGO_URI=your-mongodb-connection-string
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
-- 🗃️ Implement employee data editing and deleting.
-- 🔒 Add authentication and authorization.
-- 🌐 Deploy the app using Vercel (frontend) and Render/Heroku (backend).
-
----
-
-## 🛠️ Author
-
-- 👤 **Abhishek Mittal**
-- 📧 [Contact](mailto:abhishekmittal24gold@gmail.com)
+- Implement employee data editing and deleting.
+- Add authentication and authorization.
+- Deploy the app using Vercel (frontend) and Render/Heroku (backend).
 
 ---
 
-✅ Happy coding! 🎉
+## Author
+
+- **Abhishek Mittal**
+- [Contact](mailto:abhishekmittal24gold@gmail.com)
+
+---
+
+✅ Happy coding!
